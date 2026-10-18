@@ -8,7 +8,7 @@ email* | phone num*
 position applied* | highest edu*
 experience* | portfolio
 
-* indicates required fields
+"*" indicates required fields
   
 # folder config
 xampp
